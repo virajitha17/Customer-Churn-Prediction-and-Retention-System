@@ -5,6 +5,7 @@ I have done this using Kaggle dataset (soumilmukhopadhyay/xyz-bank-customer-chur
 - Recommends personalized retention strategies (like discounts or engagement).
   
 The output you will see will be something like this:
+
  RowNumber  CreditScore       Age  ...  ChurnProbability    Segment                           Strategy
 0  -1.731618    -0.319704 -0.059275  ...              0.68  High Risk  Offer Discount or Loyalty Program
 1  -1.730751    -0.432656 -0.153866  ...              0.17   Low Risk                 Regular Engagement
